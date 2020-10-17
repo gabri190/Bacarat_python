@@ -1,3 +1,6 @@
+#EP-Design de Software
+#Individual-Gabriel de Araujo Alves
+#Data:17/10/2020
 #importar a biblioteca de sorteio das cartas
 import random
 #montagem do baralho
