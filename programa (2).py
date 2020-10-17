@@ -1,3 +1,6 @@
+#EP-Design de Software
+#Individual-Gabriel de Araujo Alves
+#Data:17/10/2020
 #importar todas as funções do arquivo jogo
 import jogo
 #lista para definir a quantidade de baralhos a serem jogados
